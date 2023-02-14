@@ -1,2 +1,2 @@
 # frontend-devleri
-html css  boostrap js 
+html css  boostrap js ödevleri 
