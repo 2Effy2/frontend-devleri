@@ -1,0 +1,27 @@
+.form-control:focus {
+  border-color: #f34171;;
+  box-shadow: 0px 1px 1px rgb(243, 59, 98) inset, 0px 0px 8px rgba(255, 100, 255, 0.5);
+}
+.card{
+  margin-top: 100px;
+  
+}
+.storyphoto {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  
+}
+.storytext {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 10px;
+  color: black;
+  
+}
+#sticky-sidebar{
+  /* 18- Stickysidebar bu panelin sayfayı aşağı kaydırdıkça onun da gelmesini sağlıyor. 
+         Bunu sağlamak için için CSS'in position property'sini kullanabilirsiniz.  */
+  position: sticky;
+  top: 54px;
+}
